@@ -17,7 +17,7 @@ def day$1_part2(day_input: str):
 
 if __name__ == "__main__":
     print("Part 1:\t", day$1_part1("day$1.txt"))
-    print("Part 2:\t", day$1_part1("day$1.txt"))
+    print("Part 2:\t", day$1_part2("day$1.txt"))
 
 EOF
 touch "$dirname/day$1.txt"

@@ -2,3 +2,6 @@ __pycache__/
 */__pycache__/
 
 .idea/
+
+# Input should not be committed (AoC author request)
+**/*.txt

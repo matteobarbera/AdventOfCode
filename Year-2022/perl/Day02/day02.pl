@@ -11,7 +11,7 @@ use feature 'say';
 
 my $file;
 
-open($file, '<', 'Day02/day02.txt') or die "Couldn't open file!";
+open($file, '<', 'day02.txt') or die "Couldn't open file!";
 my %score_hash = ('X' => 1, 'Y' => 2, 'Z' => 3, 'A' => 1, 'B' => 2, 'C' => 3);
 my %win_hash = ('X' => 'C', 'Y' => 'A', 'Z' => 'B');
 my $score = 0;

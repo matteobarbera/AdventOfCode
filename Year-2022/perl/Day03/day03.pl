@@ -3,7 +3,6 @@ use warnings;
 use autodie;
 
 use feature 'say';
-use Set::Scalar;
 
 sub get_priority {
     my $item = @_;

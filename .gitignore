@@ -3,5 +3,7 @@ __pycache__/
 
 .idea/
 
+.vscode/
+
 # Input should not be committed (AoC author request)
 **/*.txt
